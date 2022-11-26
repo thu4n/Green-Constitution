@@ -3,7 +3,6 @@
 ### Table of contents:
  - [About the game](#about-the-game)
  - [Development process](#development-process)
- - [Install instructions](#install-instructions)
  - [Quick guide for playing the game](#quick-guide-for-playing-the-game)
  - [About us](#about-us)
 ## About the game
@@ -20,8 +19,6 @@ Here are the tools we used:
  - **Google Drive** for file sharing
  - **GitHub** for version control
  - **Adobe Premier** for editing music and sound effect (it's chosen because of its availability not usability)
-## Install instructions
-Some texts for install instructions
 ## Quick guide for playing the game
 You have 4 indexes you need to pay attention to which are **Economy**, **Happiness**, **Pollution level** and **Resource**. Each of them has a starting value of 50, the maximum of which are 100 and you will lose if any of them  drops down to 0 except for **Pollution level** which is the opposite.
 
