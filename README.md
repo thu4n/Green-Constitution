@@ -4,7 +4,7 @@
 ### Table of contents:
  - [About the game](#about-the-game)
  - [Development process](#development-process)
- - [Showcase of the game](#showcase-of-the-game)
+ - [How to play](#how-to-play)
  - [Quick guide for playing the game](#quick-guide-for-playing-the-game)
  - [About us](#about-us)
 ## About the game
@@ -21,8 +21,8 @@ Here are the tools we used:
  - **Google Drive** for file sharing
  - **GitHub** for version control
  - **Adobe Premier** for editing music and sound effect (it's chosen because of its availability not usability)
-## Showcase of the game
-All you have to do to play our game is cloning this repository, open it in your Unity editor and then hit **Play**.
+## How to play
+All you have to do to play our game is cloning this repository, open it in your Unity editor and go to TestSwipe\Assets\MainMenu\Scenes then click MenuScene to play the game.
 
 A full build of the game is planned for the near future.
 ## Quick guide for playing the game
