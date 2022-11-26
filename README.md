@@ -27,7 +27,7 @@ You have 4 indexes you need to pay attention to which are **Economy**, **Happine
 
 Each card shown to you will either be an event or problem you need to take of as leader. Respond to these cards by swiping left or right as in "No" or "Yes" respectively. Responses you make will affect the four indexes mentioned above in a positive or negative way. Respond cleverly to keep your indexes at a stable level until the end of the game and you are victorious!
 ## About us
-Introducing the members of our team: [thu4n](https://github.com/thu4n),[triledinh159](https://github.com/triledinh159)
-,[LTBach](https://github.com/LTBach),[howtodie123](https://github.com/howtodie123),[NguyenDangTo](https://github.com/NguyenDangTo)
+Introducing the members of our team: [thu4n](https://github.com/thu4n), [triledinh159](https://github.com/triledinh159)
+, [LTBach](https://github.com/LTBach), [howtodie123](https://github.com/howtodie123), [NguyenDangTo](https://github.com/NguyenDangTo)
 
 We are 5 students from UIT (K16) with a passion for making games and learning new things. Participating in this hackathon, we want to make the most out of it as well as having fun.
