@@ -22,7 +22,9 @@ Here are the tools we used:
  - **GitHub** for version control
  - **Adobe Premier** for editing music and sound effect (it's chosen because of its availability not usability)
 ## How to play
-All you have to do to play our game is cloning this repository, open it in your Unity editor and go to TestSwipe\Assets\MainMenu\Scenes then click MenuScene to play the game.
+All you have to do to play our game is cloning this repository, open it in your Unity editor and go to TestSwipe\Assets\MainMenu\Scenes then click MenuScene to play the game. 
+
+Due to calling APIs when running scripts, the game can take some time to boot.
 
 A full build of the game is planned for the near future.
 ## Quick guide for playing the game
