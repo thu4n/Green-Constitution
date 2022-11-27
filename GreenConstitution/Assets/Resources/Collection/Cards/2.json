@@ -1,0 +1,29 @@
+{
+    "id": 2,
+    "characterId": 19,
+    "cardText": "Build more pavewalk for pedestrians",
+    "leftAction": {
+        "text": "It's a waste of money",
+        "statsModification": {
+            "hp": -5,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Let's build more!",
+        "statsModification": {
+            "hp": 5,
+            "eco": -5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

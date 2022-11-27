@@ -1,0 +1,29 @@
+{
+    "id": 28,
+    "characterId": 8,
+    "cardText": "Upland ethnic minorities are suffering from shortage of water, do you want to build a factory producing clean water for them?",
+    "leftAction": {
+        "text": "No, building and maintaining are too expensive",
+        "statsModification": {
+            "hp": 0,
+            "eco": -10,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "It's good for the people",
+        "statsModification": {
+            "hp": 5,
+            "eco": -10,
+            "pl": 0,
+            "rsc": -5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": 32,
+    "characterId": 8,
+    "cardText": "Geologists have found a new oil mine, do you want to mine it?",
+    "leftAction": {
+        "text": "No, don't mine it",
+        "statsModification": {
+            "hp": 10,
+            "eco": 0,
+            "pl": 10,
+            "rsc": 10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, I do",
+        "statsModification": {
+            "hp": -5,
+            "eco": 0,
+            "pl": 5,
+            "rsc": 10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

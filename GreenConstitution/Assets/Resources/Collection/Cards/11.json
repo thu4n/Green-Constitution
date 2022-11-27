@@ -1,0 +1,29 @@
+{
+    "id": 11,
+    "characterId": 5,
+    "cardText": "The war is over, Rusticore and Unikorm are signing a peace accord. They want to use your nation capital as the signing location. Do you allow it?",
+    "leftAction": {
+        "text": "No, go somewhere else",
+        "statsModification": {
+            "hp": -5,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, go ahead",
+        "statsModification": {
+            "hp": 5,
+            "eco": -5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

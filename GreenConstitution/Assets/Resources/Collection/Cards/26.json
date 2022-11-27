@@ -1,0 +1,29 @@
+{
+    "id": 26,
+    "characterId": 24,
+    "cardText": "The earth remains the same and it accumulates other bacteria overtime making it unuseable for agriculture. The environment in general is heavily affected by this and the people are raising their concern",
+    "leftAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

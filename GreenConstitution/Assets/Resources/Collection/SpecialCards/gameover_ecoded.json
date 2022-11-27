@@ -1,0 +1,15 @@
+{
+    "id": "gameover_ecoded",
+    "characterId": 26,
+    "cardText": "Your activities lead you imprisoned.",
+    "leftAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

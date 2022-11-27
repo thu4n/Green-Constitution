@@ -1,0 +1,29 @@
+{
+    "id": 14,
+    "characterId": 1,
+    "cardText": "There are rumors of multiple schools not following the guidline of sanitation. Send an investigation team to these schools?",
+    "leftAction": {
+        "text": "No, it's only a rumor",
+        "statsModification": {
+            "hp": -5,
+            "eco": 5,
+            "pl": 10,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, look into it",
+        "statsModification": {
+            "hp": 5,
+            "eco": -10,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

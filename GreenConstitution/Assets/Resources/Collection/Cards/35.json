@@ -1,0 +1,29 @@
+{
+    "id": 35,
+    "characterId": 25,
+    "cardText": "You have enough money to develop new technology but Meta Galaxy has seriously destroyed the environment and the people eventually find out about your deal with them.",
+    "leftAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

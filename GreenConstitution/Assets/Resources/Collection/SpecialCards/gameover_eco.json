@@ -1,0 +1,15 @@
+{
+    "id": "gameover_eco",
+    "characterId": 28,
+    "cardText": "Your country has fallen due to the fallen of the economic system. You have lost the game.",
+    "leftAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 22,
+    "characterId": 16,
+    "cardText": "After the Covid pandemic, face masks become the most popular type of trash floating on the sea, we should start a campaign collecting them all.",
+    "leftAction": {
+        "text": "No, it's too costly",
+        "statsModification": {
+            "hp": -5,
+            "eco": 0,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, it has to be done",
+        "statsModification": {
+            "hp": 5,
+            "eco": 0,
+            "pl": -5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

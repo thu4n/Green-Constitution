@@ -1,0 +1,29 @@
+{
+    "id": 10,
+    "characterId": 13,
+    "cardText": "Due to the war, the price of fuel increases significantly on the international market. Do you want to stable the price of it on the national market?",
+    "leftAction": {
+        "text": "No, we will lose too much money",
+        "statsModification": {
+            "hp": -10,
+            "eco": 5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, the people need this",
+        "statsModification": {
+            "hp": 10,
+            "eco": -10,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

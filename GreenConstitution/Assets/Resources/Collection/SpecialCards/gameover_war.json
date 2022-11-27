@@ -1,0 +1,15 @@
+{
+    "id": "gameover_war",
+    "characterId": 22,
+    "cardText": "Why you throw your man to that meaningless war? Whyyyyy?.",
+    "leftAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

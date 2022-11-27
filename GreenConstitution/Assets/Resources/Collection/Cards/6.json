@@ -1,0 +1,29 @@
+{
+    "id": 6,
+    "characterId": 22,
+    "cardText": "After the conflict in Eastern border of Rusticore. Rusticore decide to start a war with Unikrom. People in your country are worried about the war. What should we do?",
+    "leftAction": {
+        "text": "Don't join any side, stay neutral",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Evaluate both sides and join forces with the stronger one",
+        "statsModification": {
+            "hp": -100,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

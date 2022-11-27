@@ -1,0 +1,29 @@
+{
+    "id": 31,
+    "characterId": 18,
+    "cardText": "Scientists demands fund for research activities involving H2 powered car instead of gas. If successful, it will be beneficial for the environment",
+    "leftAction": {
+        "text": "No, the cost is too high",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, prioritize the environment",
+        "statsModification": {
+            "hp": 5,
+            "eco": -10,
+            "pl": -5,
+            "rsc": -5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

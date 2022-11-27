@@ -1,0 +1,29 @@
+{
+    "id": 7,
+    "characterId": 22,
+    "cardText": "After carefully evaluating the situation, you sign an accord to become ally with Rusticore and join the war. 2 years after that date, the government budget is not enough maintain the military force and all the resources have been used for the war.",
+    "leftAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

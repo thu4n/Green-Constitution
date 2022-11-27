@@ -1,0 +1,29 @@
+{
+    "id": 20,
+    "characterId": 1,
+    "cardText": "Buying modern medical equipment and vaccines to aid the people better in case of pandemic",
+    "leftAction": {
+        "text": "No, not now",
+        "statsModification": {
+            "hp": 0,
+            "eco": -10,
+            "pl": 10,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "It will be done",
+        "statsModification": {
+            "hp": -10,
+            "eco": 5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

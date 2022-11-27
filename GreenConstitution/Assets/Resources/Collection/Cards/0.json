@@ -1,0 +1,29 @@
+{
+    "id": 0,
+    "characterId": 0,
+    "cardText": "You are the supreme leader of your country. The Covid-19 pandemic has just ended recently, still, your country is in an unstable condition, especially with problems of environmental pollution.",
+    "leftAction": {
+        "text": "Yeah, sure",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Alright, let do it ",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": 27,
+    "characterId": 24,
+    "cardText": "After the financial aid, his research is successful and it helps solve many pollution issues related to earth. The environment is better and resource is restored for some parts.",
+    "leftAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Next",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

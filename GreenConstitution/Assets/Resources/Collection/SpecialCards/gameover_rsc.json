@@ -1,0 +1,15 @@
+{
+    "id": "gameover_rsc",
+    "characterId": 31,
+    "cardText": "The country runs out of materials to sustain itself.",
+    "leftAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

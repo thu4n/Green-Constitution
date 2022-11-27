@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "characterId": 14,
+    "cardText": "Small conflicts happen between the Rusticore army and your guards near the South border. Do you want to send your forces to tackle this problem?",
+    "leftAction": {
+        "text": "No, it's just a small conflict",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 0,
+            "rsc": -5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, I will send them there",
+        "statsModification": {
+            "hp": 5,
+            "eco": -5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

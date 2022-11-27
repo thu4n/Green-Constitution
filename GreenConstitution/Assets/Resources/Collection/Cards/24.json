@@ -1,0 +1,29 @@
+{
+    "id": 24,
+    "characterId": 21,
+    "cardText": "Business X wants to put their chemical wastes in the ocean. They will pay you a lot of money if allowed",
+    "leftAction": {
+        "text": "No.The ocean must be protected.",
+        "statsModification": {
+            "hp": 0,
+            "eco": 5,
+            "pl": -5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "The government needs more money to function",
+        "statsModification": {
+            "hp": 5,
+            "eco": -10,
+            "pl": 10,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": 25,
+    "characterId": 24,
+    "cardText": "A scientist in the National Research Institute suggest a solution to cleanse the earth, making it 100% pure. Do you want to pay a large amount of money to support his research?",
+    "leftAction": {
+        "text": "Doesn't give him money	",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 20,
+            "rsc": -20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Give him money",
+        "statsModification": {
+            "hp": 0,
+            "eco": -10,
+            "pl": -5,
+            "rsc": 10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

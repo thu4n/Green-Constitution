@@ -1,0 +1,29 @@
+{
+    "id": 33,
+    "characterId": 25,
+    "cardText": "Your country is tending to borrow a large sum of money in order to work on the new 5.0 technology. At the same time, an enterprise called Meta Galaxy offers to lend you the money in exchange for their exploitation of the national forest. Do you take the deal?",
+    "leftAction": {
+        "text": "Don't take it",
+        "statsModification": {
+            "hp": -100,
+            "eco": -20,
+            "pl": 20,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Take the deal",
+        "statsModification": {
+            "hp": -10,
+            "eco": 20,
+            "pl": 30,
+            "rsc": -20
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

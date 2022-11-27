@@ -1,0 +1,29 @@
+{
+    "id": 16,
+    "characterId": 23,
+    "cardText": "Goods are still being circulated as always which grows the economy. However, the pandemic has spread uncontrollably causing the deaths of many people. Do you want to keep the border open?",
+    "leftAction": {
+        "text": "Close the border",
+        "statsModification": {
+            "hp": 0,
+            "eco": 30,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Still open the border",
+        "statsModification": {
+            "hp": -5,
+            "eco": 5,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

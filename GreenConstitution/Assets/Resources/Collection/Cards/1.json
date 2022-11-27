@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "characterId": 9,
+    "cardText": "We need to have more tree planting campaigns",
+    "leftAction": {
+        "text": "No, I don't think so",
+        "statsModification": {
+            "hp": 5,
+            "eco": -10,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "It shall be done",
+        "statsModification": {
+            "hp": 0,
+            "eco": -5,
+            "pl": -5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

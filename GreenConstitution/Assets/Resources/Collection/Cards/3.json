@@ -1,0 +1,29 @@
+{
+    "id": 3,
+    "characterId": 15,
+    "cardText": "Put more efforts in recovering bare hills and conserving wild ecosystem",
+    "leftAction": {
+        "text": "No, not worth the time",
+        "statsModification": {
+            "hp": -5,
+            "eco": 0,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, this is an absolute must",
+        "statsModification": {
+            "hp": 5,
+            "eco": 0,
+            "pl": -5,
+            "rsc": 10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

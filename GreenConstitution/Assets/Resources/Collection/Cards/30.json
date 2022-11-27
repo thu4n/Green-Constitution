@@ -1,0 +1,29 @@
+{
+    "id": 30,
+    "characterId": 9,
+    "cardText": "The country is in dry season, the rate of forest fire might increase. Building more fire runways is necessary",
+    "leftAction": {
+        "text": "No , ít's not worth it",
+        "statsModification": {
+            "hp": 0,
+            "eco": 0,
+            "pl": 5,
+            "rsc": -5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, build it now",
+        "statsModification": {
+            "hp": 0,
+            "eco": -10,
+            "pl": -5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

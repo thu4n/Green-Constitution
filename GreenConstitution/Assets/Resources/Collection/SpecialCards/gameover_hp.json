@@ -1,0 +1,15 @@
+{
+    "id": "gameover_happiness",
+    "characterId": 29,
+    "cardText": "Hunger consumes the city, as food reserves deplete.",
+    "leftAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

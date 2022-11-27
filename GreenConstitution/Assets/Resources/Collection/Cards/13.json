@@ -1,0 +1,29 @@
+{
+    "id": 13,
+    "characterId": 9,
+    "cardText": "Hunting wild animals illegally shows a sign of increase, do you want to have more rangers on patrol?",
+    "leftAction": {
+        "text": "No, we have enough rangers",
+        "statsModification": {
+            "hp": -5,
+            "eco": 0,
+            "pl": 0,
+            "rsc": -10
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, have more of them",
+        "statsModification": {
+            "hp": 10,
+            "eco": 0,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

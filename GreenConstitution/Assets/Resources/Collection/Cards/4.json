@@ -1,0 +1,29 @@
+{
+    "id": 4,
+    "characterId": 7,
+    "cardText": "Do you want to invest in building a new nuclear power plant?",
+    "leftAction": {
+        "text": "No, I don't think it's needed",
+        "statsModification": {
+            "hp": -5,
+            "eco": -5,
+            "pl": 5,
+            "rsc": 5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Go ahead with the plan",
+        "statsModification": {
+            "hp": 5,
+            "eco": 10,
+            "pl": -10,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

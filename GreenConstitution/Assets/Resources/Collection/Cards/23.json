@@ -1,0 +1,29 @@
+{
+    "id": 23,
+    "characterId": 19,
+    "cardText": "A storm of level 14 is coming to the mainland, raise fund to help the people?",
+    "leftAction": {
+        "text": "No.We don't have the money for that",
+        "statsModification": {
+            "hp": 0,
+            "eco": -5,
+            "pl": 5,
+            "rsc": -5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Raising fund is a must",
+        "statsModification": {
+            "hp": -15,
+            "eco": 10,
+            "pl": 5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

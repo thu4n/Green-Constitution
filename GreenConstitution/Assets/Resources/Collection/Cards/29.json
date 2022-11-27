@@ -1,0 +1,29 @@
+{
+    "id": 29,
+    "characterId": 15,
+    "cardText": "The nation is having a major shortage of food, do you want to apply intentsive farming to increase production",
+    "leftAction": {
+        "text": "No, there is still enough food",
+        "statsModification": {
+            "hp": -5,
+            "eco": -5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, apply it immediately",
+        "statsModification": {
+            "hp": 5,
+            "eco": 5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

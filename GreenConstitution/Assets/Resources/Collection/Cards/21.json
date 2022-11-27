@@ -1,0 +1,29 @@
+{
+    "id": 21,
+    "characterId": 20,
+    "cardText": "Establish free healthcare for everyone, do you want to?",
+    "leftAction": {
+        "text": "No, such thing is way too expensive",
+        "statsModification": {
+            "hp": -10,
+            "eco": 5,
+            "pl": 0,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, healthcare is mandatory",
+        "statsModification": {
+            "hp": 10,
+            "eco": -5,
+            "pl": -5,
+            "rsc": 0
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}

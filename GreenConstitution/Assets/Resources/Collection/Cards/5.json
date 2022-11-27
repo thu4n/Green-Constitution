@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "characterId": 5,
+    "cardText": "Having embassy engage in more international exchanges",
+    "leftAction": {
+        "text": "No, we have more important things",
+        "statsModification": {
+            "hp": -5,
+            "eco": -5,
+            "pl": 0,
+            "rsc": -5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Yes, I will contact our guys",
+        "statsModification": {
+            "hp": 5,
+            "eco": 5,
+            "pl": 0,
+            "rsc": 5
+        },
+        "followup": [],
+        "specialFollowup": []
+    },
+    "cardPrerequisites": [],
+    "specialCardPrerequisites": []
+}
