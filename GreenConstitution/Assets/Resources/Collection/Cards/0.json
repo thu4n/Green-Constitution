@@ -1,7 +1,7 @@
 {
     "id": 0,
     "characterId": 0,
-    "cardText": "You are the supreme leader of your country. The Covid-19 pandemic has just ended recently, still, your country is in an unstable condition, especially with problems of environmental pollution.",
+    "cardText": "You are the supreme leader of your country Environnation. To make decision, SWIPE LEFT or RIGHT. Each decision affects the 4 stats above - Happiness, Economy, Pollution level and Resource, your responsibilty is to keep them stable ",
     "leftAction": {
         "text": "Yeah, sure",
         "statsModification": {
