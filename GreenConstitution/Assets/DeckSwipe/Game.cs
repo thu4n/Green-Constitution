@@ -106,9 +106,8 @@ namespace DeckSwipe {
 				progressStorage.Save();
 			}
 		}
-
 		public void CardActionPerformed() {
-			progressStorage.Progress.AddDays(Random.Range(0.5f, 1.5f),
+			progressStorage.Progress.AddDays(1,
 					daysPassedPreviously);
 			ProgressDisplay.SetDaysSurvived(
 					(int)(progressStorage.Progress.daysPassed - daysPassedPreviously));
