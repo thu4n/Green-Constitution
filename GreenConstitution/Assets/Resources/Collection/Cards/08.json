@@ -1,12 +1,12 @@
 {
     "id": 8,
     "characterId": 22,
-    "cardText": "Extremely weak in both economy and resource, your army can not withstand the ambush of Unikrom army. In only 2 weeks, your capital falls and you are captured. Unikrom let you live for political reasons but your country has been completely under their control You lose. The end.",
+    "cardText": "The war between those 2 countries affect your economy badly but the people seem to be happy of your initial decision to stay neutral",
     "leftAction": {
         "text": "Okay",
         "statsModification": {
-            "hp": 0,
-            "eco": 0,
+            "hp": 15,
+            "eco": -25,
             "pl": 0,
             "rsc": 0
         },

@@ -132,7 +132,7 @@ namespace DeckSwipe.Gamestate {
 						new GameOverOutcome()));
 			}
 			if (!SpecialCards.ContainsKey("gameover_war")) {
-				SpecialCards.Add("gameover_war", new SpecialCard("Why you throw your man to that meaningless war? Whyyyyy?", "", "",
+				SpecialCards.Add("gameover_war", new SpecialCard("You become an ally of Rusticore and so the war begins. After 2 years of fighting, losing countless battlefronts, your capital falls and you are captured. Unikrom let you live for political reasons but your country has been completely under their control. You have lost the game.", "", "",
 						_defaultGameOverCharacter,
 						new GameOverOutcome(),
 						new GameOverOutcome()));

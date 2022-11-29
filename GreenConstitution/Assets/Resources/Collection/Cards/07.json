@@ -1,7 +1,7 @@
 {
     "id": 7,
     "characterId": 22,
-    "cardText": "After carefully evaluating the situation, you sign an accord to become ally with Rusticore and join the war. 2 years after that date, the government budget is not enough maintain the military force and all the resources have been used for the war.",
+    "cardText": "You stay outside of the war and keep a neutral position. The war between Rusticore and Unikrom breaks out with the entire world watching.",
     "leftAction": {
         "text": "Next",
         "statsModification": {
