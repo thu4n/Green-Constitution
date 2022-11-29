@@ -1,14 +1,14 @@
 {
     "id": "gameover_ecoded",
     "characterId": 26,
-    "cardText": "Your activities lead you imprisoned.",
+    "cardText": "Your country has collapsed due to the fall of the economic system. You have lost the game.",
     "leftAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     },
     "rightAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     }

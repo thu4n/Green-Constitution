@@ -1,14 +1,14 @@
 {
     "id": "gameover_pl",
     "characterId": 30,
-    "cardText": "The city runs out of heat and freezes over.",
+    "cardText": "The country has been too polluted and is not inhabitable for humans anymore. You have lost the game.",
     "leftAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     },
     "rightAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     }

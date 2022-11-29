@@ -1,7 +1,7 @@
 {
     "id": "gameover_happiness",
     "characterId": 29,
-    "cardText": "Hunger consumes the city, as food reserves deplete.",
+    "cardText": "The people rebel furiously and overthrow your government. You have lost the game",
     "leftAction": {
         "text": "",
         "followup": [],

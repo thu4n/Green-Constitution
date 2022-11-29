@@ -1,14 +1,14 @@
 {
     "id": "gameover_rsc",
     "characterId": 31,
-    "cardText": "The country runs out of materials to sustain itself.",
+    "cardText": "The country runs out of materials to sustain itself. You have lost the game",
     "leftAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     },
     "rightAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     }

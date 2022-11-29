@@ -1,14 +1,14 @@
 {
     "id": "gameover_war",
     "characterId": 22,
-    "cardText": "Why you throw your man to that meaningless war? Whyyyyy?.",
+    "cardText": "You become an ally of Rusticore and so the war begins. After 2 years of fighting, losing countless battlefronts, your capital falls and you are captured. Unikrom let you live for political reasons but your country has been completely under their control. You have lost the game.",
     "leftAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     },
     "rightAction": {
-        "text": "",
+        "text": "Okay",
         "followup": [],
         "specialFollowup": []
     }

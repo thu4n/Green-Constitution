@@ -120,7 +120,7 @@ namespace DeckSwipe.Gamestate {
 						new GameOverOutcome()));
 			}
 			if (!SpecialCards.ContainsKey("gameover_pl")) {
-				SpecialCards.Add("gameover_pl", new SpecialCard("The city runs out of heat and freezes over.", "", "",
+				SpecialCards.Add("gameover_pl", new SpecialCard("The country has been too polluted and is not inhabitable for humans anymore. You have lost the game.", "", "",
 						_defaultGameOverCharacter,
 						new GameOverOutcome(),
 						new GameOverOutcome()));

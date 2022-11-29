@@ -17,7 +17,7 @@ namespace DeckSwipe {
 		public Vector3 spawnPosition;
 		public Sprite defaultCharacterSprite;
 		public bool loadRemoteCollectionFirst;
-
+		public int cardNumber = 0;
 		public CardStorage CardStorage {
 			get { return cardStorage; }
 		}
@@ -73,6 +73,7 @@ namespace DeckSwipe {
 		}
 
 		public void DrawNextCard(int number) {
+			cardNumber = number;
 			if (Stats.Hp == 0 && number == 7){
 				SpawnCard(cardStorage.SpecialCard("gameover_war"));
 			}
@@ -84,7 +85,7 @@ namespace DeckSwipe {
 				SpawnCard(cardStorage.SpecialCard("gameover_ecoded"));
 			}
 			else if (Stats.Eco == 0) {
-				SpawnCard(cardStorage.SpecialCard("gameover_eco"));
+				SpawnCard(cardStorage.SpecialCard("gameover_ecoded"));
 			}
 			else if (Stats.Pl == 100) {
 				SpawnCard(cardStorage.SpecialCard("gameover_pl"));

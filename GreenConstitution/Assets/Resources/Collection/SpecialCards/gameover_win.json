@@ -1,14 +1,14 @@
 {
     "id": "gameover_win",
     "characterId": 27,
-    "cardText": "Your ingenious leadership has helped the country overcome all obstacles and the path to steady growth has never been nearer. The end.",
+    "cardText": "Your ingenious leadership has helped the country overcome all obstacles and the path to steady growth has never been nearer. You have won the game.",
     "leftAction": {
-        "text": "",
+        "text": "Yayy",
         "followup": [],
         "specialFollowup": []
     },
     "rightAction": {
-        "text": "",
+        "text": "Hell yeah",
         "followup": [],
         "specialFollowup": []
     }
