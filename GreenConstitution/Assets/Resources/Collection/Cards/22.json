@@ -17,7 +17,7 @@
         "text": "Yes, it has to be done",
         "statsModification": {
             "hp": 5,
-            "eco": 0,
+            "eco": -5,
             "pl": -5,
             "rsc": 0
         },

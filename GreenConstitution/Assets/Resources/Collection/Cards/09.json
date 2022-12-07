@@ -5,7 +5,7 @@
     "leftAction": {
         "text": "No, it's just a small conflict",
         "statsModification": {
-            "hp": 0,
+            "hp": -10,
             "eco": 0,
             "pl": 0,
             "rsc": -5

@@ -5,8 +5,8 @@
     "leftAction": {
         "text": "Don't take it",
         "statsModification": {
-            "hp": -100,
-            "eco": -20,
+            "hp": 0,
+            "eco": -30,
             "pl": 20,
             "rsc": 0
         },
@@ -18,7 +18,7 @@
         "statsModification": {
             "hp": -10,
             "eco": 20,
-            "pl": 30,
+            "pl": 100,
             "rsc": -20
         },
         "followup": [],

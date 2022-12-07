@@ -7,7 +7,7 @@
         "statsModification": {
             "hp": -10,
             "eco": 10,
-            "pl": -100,
+            "pl": 10,
             "rsc": 0
         },
         "followup": [],
@@ -17,7 +17,7 @@
         "text": "Close the border",
         "statsModification": {
             "hp": 0,
-            "eco": -10,
+            "eco": -100,
             "pl": 0,
             "rsc": 0
         },

@@ -96,6 +96,10 @@ namespace DeckSwipe {
 			else if (Stats.Hp == 0) {
 				SpawnCard(cardStorage.SpecialCard("gameover_hp"));
 			}
+			else if (number == 36)
+            {
+				UnityEngine.SceneManagement.SceneManager.LoadScene("MenuScene");
+			}
 			else {
 				IFollowup followup = cardDrawQueue.Next();
 				ICard card = followup?.Fetch(cardStorage) ?? cardStorage.Random(number);

@@ -1,7 +1,7 @@
 {
     "id": 18,
     "characterId": 23,
-    "cardText": "Over 1 million deaths has been recorded, still, the economy is growing which helps medical facilities and researchers find an effective vaccine against the pandemic. Your decision to open the border has helped the country overcome financial crisis as well as Covid-19",
+    "cardText": "The economy is growing which helps medical facilities and researchers find an effective vaccine against the pandemic.",
     "leftAction": {
         "text": "Next",
         "statsModification": {

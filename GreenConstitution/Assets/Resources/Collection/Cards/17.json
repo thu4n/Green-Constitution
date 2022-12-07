@@ -1,7 +1,7 @@
 {
     "id": 17,
     "characterId": 23,
-    "cardText": "Closing the border is a heavy burden on the economy of the nation, businesses keep on losing money and the government does not have enough budget to combat Covid. You decide to print more money which creates hyper inflation and the nation is in chaos. You lose.",
+    "cardText": "The pandemic seems to have died down for now. Your country survives Covid.",
     "leftAction": {
         "text": "Okay",
         "statsModification": {

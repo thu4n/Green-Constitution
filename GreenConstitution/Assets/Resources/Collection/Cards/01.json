@@ -5,8 +5,8 @@
     "leftAction": {
         "text": "No, I don't think so",
         "statsModification": {
-            "hp": 5,
-            "eco": -10,
+            "hp": -5,
+            "eco": 10,
             "pl": 5,
             "rsc": 0
         },
@@ -16,7 +16,7 @@
     "rightAction": {
         "text": "It shall be done",
         "statsModification": {
-            "hp": 0,
+            "hp": 10,
             "eco": -5,
             "pl": -5,
             "rsc": 0

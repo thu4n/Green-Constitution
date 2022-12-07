@@ -6,7 +6,7 @@
         "text": "No, we have enough rangers",
         "statsModification": {
             "hp": -5,
-            "eco": 0,
+            "eco": 5,
             "pl": 0,
             "rsc": -10
         },
@@ -17,7 +17,7 @@
         "text": "Yes, have more of them",
         "statsModification": {
             "hp": 10,
-            "eco": 0,
+            "eco": -10,
             "pl": 0,
             "rsc": 0
         },

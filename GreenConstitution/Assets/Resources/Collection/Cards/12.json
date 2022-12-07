@@ -1,13 +1,13 @@
 {
     "id": 12,
     "characterId": 4,
-    "cardText": "Hundreds of environmental sanitation staff want to have day off due to sickness. Do you approve?",
+    "cardText": "Hundreds of environmental sanitation staff want to have a day off due to sickness. Do you approve?",
     "leftAction": {
         "text": "No, their work is needed",
         "statsModification": {
             "hp": -10,
             "eco": 0,
-            "pl": -5,
+            "pl": -10,
             "rsc": 0
         },
         "followup": [],
@@ -18,7 +18,7 @@
         "statsModification": {
             "hp": -5,
             "eco": 0,
-            "pl": -5,
+            "pl": 5,
             "rsc": 0
         },
         "followup": [],

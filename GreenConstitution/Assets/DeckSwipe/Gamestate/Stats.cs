@@ -28,7 +28,7 @@ namespace DeckSwipe.Gamestate {
 		public static void ApplyModification(StatsModification mod) {
 			Hp = ClampValue(Hp + mod.hp);
 			Eco = ClampValue(Eco + mod.eco);
-			Pl = ClampValue(Pl - mod.pl);
+			Pl = ClampValue(Pl + mod.pl);
 			Rsc = ClampValue(Rsc + mod.rsc);
 			TriggerAllListeners();
 		}
