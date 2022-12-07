@@ -24,20 +24,7 @@ namespace DeckSwipe.CardModel.Import {
 
 		public async Task<ImportedCards> Import() {
 			ProtoCollection collection;
-			if (remoteCollectionFirst) {
-				try {
-					collection = await new GoogleSheetsCollection().Fetch();
-				}
-				catch (Exception e) when (e is WebException || e is FormatException) {
-					Debug.LogError("[CollectionImporter] Import from Google Sheets failed: " + e.Message);
-					Debug.LogWarning("[CollectionImporter] Trying local collection...");
-					collection = LocalCollection.Fetch();
-					if (collection.cards.Count == 0) {
-						Debug.LogWarning("[CollectionImporter] Import from local collection returned 0 cards");
-					}
-				}
-			}
-			else {
+			
 				collection = LocalCollection.Fetch();
 				if (collection.cards.Count == 0) {
 					Debug.LogWarning("[CollectionImporter] Import from local collection returned 0 cards, "
@@ -49,7 +36,7 @@ namespace DeckSwipe.CardModel.Import {
 						Debug.LogError("[CollectionImporter] Import from Google Sheets failed: " + e.Message);
 					}
 				}
-			}
+			
 
 			Dictionary<int, Sprite> sprites = new Dictionary<int, Sprite>();
 			foreach (ProtoImage image in collection.images) {
